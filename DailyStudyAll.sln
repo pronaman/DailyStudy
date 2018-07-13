@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BookQt5Cookbook", "QtProjec
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QtProjects", "QtProjects", "{9505BA6B-5FB1-4AE3-BCE1-E500C9547EBF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpProjects", "CSharpProjects", "{5D512B6E-E231-4AE5-AB61-1E03EF5F65B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
